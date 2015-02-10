@@ -24,7 +24,12 @@ Simply activate the plugin, then add `<?php inner_page_menu(); ?>` in your theme
  
 == Frequently Asked Questions ==
 
-None yet.
+= WordPress has a built in custom menu widget which you can use in a sidebar - why not use that? =
+The built in widget is perfect if you want the SAME menu to appear in the sidebar across a lot of pages.
+But this plugin allows you to control the sidebar menu for each page individually. In other words, you can set a DIFFERENT menu for each page.
+
+= What's this plugin used for? =
+Perfect for displaying child pages in the sidebar, instead of using a drop-down menu. 
 
 == Screenshots ==
 
